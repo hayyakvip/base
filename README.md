@@ -8,3 +8,4 @@ briefing
 base workflow/base
 base/xyz
 Coinbase con/guild
+github not connecting
