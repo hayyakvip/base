@@ -27,3 +27,4 @@ building ecosystem
 onchain/guild
 onchain/workflows
 hold atleast 0.001 ETH
+control
