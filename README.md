@@ -16,3 +16,4 @@ working on it
 starting/guild/xyz
 build 
 build/base/ai
+Under process/guild for connecting github
