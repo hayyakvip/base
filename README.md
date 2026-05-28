@@ -30,3 +30,4 @@ hold atleast 0.001 ETH
 control
 have 50 commits
 1commit done
+not connected
