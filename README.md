@@ -24,3 +24,4 @@ coinbase onchain verified
 creators and voices
 builders and founders/guild
 building ecosystem
+onchain/guild
