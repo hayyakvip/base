@@ -19,3 +19,4 @@ build/base/ai
 Under process/guild for connecting github
 github not yet connected
 github verification not meet requirements
+base gathered
