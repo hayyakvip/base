@@ -22,3 +22,4 @@ github verification not meet requirements
 base gathered
 coinbase onchain verified
 creators and voices
+builders and founders/guild
