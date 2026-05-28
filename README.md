@@ -7,3 +7,4 @@ not even connecting
 briefing
 base workflow/base
 base/xyz
+Coinbase con/guild
