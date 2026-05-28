@@ -40,3 +40,4 @@ brawlingfixed
 near system error 
 error loading
 last 8 rounds
+properly vice
